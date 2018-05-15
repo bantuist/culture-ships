@@ -19,8 +19,10 @@
     "prettier": "^1.12.1"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
+    "cheerio": "^1.0.0-rc.2",
     "jest-cli": "^22.4.2"
   }
 }
