@@ -1,0 +1,1873 @@
+[
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Bora Horza Gobuchul",
+      "class": "Ocean, later Range",
+      "note":
+        "The name chosen by the Mind at the centre of the events of the book, after its rescue and emplacement in a GSV."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Determinist",
+      "class": "System",
+      "note":
+        "The largest GSV class built by the Culture, composed of multiple separate hulls. Population 6 billion."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Eschatologist (temporary name)",
+      "class": "Ocean",
+      "note":
+        "A comparatively small GSV class, designed for combat and military manufacturing."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Irregular Apocalypse",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "No More Mr Nice Guy",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "LSV",
+      "name": "Profit Margin",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Nervous Energy",
+      "class": "Mountain",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Prosthetic Conscience",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "ROU",
+      "name": "Revisionist",
+      "class": "Killer",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "ROU",
+      "name": "Trade Surplus",
+      "class": "Killer",
+      "note": ""
+    },
+    {
+      "civ": "Culture Ulterior",
+      "type": "GSV",
+      "name": "The Ends Of Invention",
+      "class": "",
+      "note":
+        "Officially discharged from Culture service, with its Mind/s removed, and employed as a neutral vessel to evacuate Vavatch Orbital."
+    },
+    {
+      "civ": "Idiran",
+      "type": "Light Cruiser",
+      "name": "The Hand of God 137",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Non-aligned (Ex-Hronish)",
+      "type": "Armoured assault",
+      "name": "Clear Air Turbulence or \"CAT\" for short",
+      "class": "",
+      "note":
+        "A pirate ship, and one of the main settings of the book. Named by the author after the rock album Clear Air Turbulence by the Ian Gillan Band, the cover of which shows a yellow-striped spacecraft painted by the sci-fi artist Chris Foss.[3] The Clear Air Turbulence in the book is also described as having yellow stripes on its hull."
+    },
+    {
+      "civ": "Non-aligned",
+      "type": "",
+      "name": "Control Surface",
+      "class": "",
+      "note":
+        "Third ship of Ghalssel's Raiders, commanded by Jandraligeli, a former member of Kraiklyn's Free Company. This ship is mentioned only in the book's appendices."
+    }
+  ],
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Cargo Cult",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Little Rascal",
+      "class": "Plate",
+      "note":
+        "Focused on 'throughput' (ship construction and crewing), rather than accommodation. Population 250 million. Plate class hull dimensions 53 x 22 x 4 km."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "So Much For Subtlety",
+      "class": "Range",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Unfortunate Conflict Of Evidence",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Youthful Indiscretion",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Flexible Demeanour",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Just Read The Instructions",
+      "class": "",
+      "note":
+        "Elon Musk named two SpaceX autonomous spaceport drone ships after these ships."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Of Course I Still Love You",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "(D)ROU",
+      "name": "Zealot",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "(D)GOU",
+      "name": "Limiting Factor",
+      "class": "Murderer",
+      "note":
+        "Jernau Morat Gurgeh's ship to Empire of Azad. Nominally demilitarised, but actually retains part of its main armament."
+    },
+    {
+      "civ": "Culture",
+      "type": "LOU",
+      "name": "Gunboat Diplomat",
+      "class": "",
+      "note": "An allusion to the concept of gunboat diplomacy."
+    },
+    {
+      "civ": "Culture",
+      "type": "Superlifter",
+      "name": "Kiss My Ass",
+      "class": "River",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "Superlifter",
+      "name": "Prime Mover",
+      "class": "",
+      "note":
+        "An allusion to the Aristotelian philosophical concept of the prime mover, in humorous reference to the function of a Superlifter."
+    },
+    {
+      "civ": "Culture",
+      "type": "Clipper",
+      "name": "Screw Loose",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Azadian",
+      "type": "Battlecruiser",
+      "name": "Invincible",
+      "class": "",
+      "note": "Flagship of the Empire of Azad."
+    }
+  ],
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Bad For Business",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Ablation*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Arbitrary",
+      "class": "Escarpment\n(middle series)",
+      "note":
+        "The only ship actually appearing in the book, and one of its main settings."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Arrested Development*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "A Series Of Unlikely Explanations",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "A Ship With A View*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Big Sexy Beast",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Boo!",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Cantankerous",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Credibility Problem*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Dramatic Exit*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Excuses And Accusations*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Funny, It Worked Last Time...",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "God Told Me To Do It*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Halation Effect*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Happy Idiot Talk*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Helpless In The Face Of Your Beauty*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Heresiarch*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "I Thought He Was With You",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "It'll Be Over By Christmas",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Just Another Victim Of The Ambient Morality*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Minority Report*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Never Talk To Strangers",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Not Wanted On Voyage*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Only Slightly Bent",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Perfidy*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Sacrificial Victim*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Space Monster",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Stranger Here Myself*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Synchronize Your Dogmas*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Thank You And Goodnight*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "The Precise Nature Of The Catastrophe*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Ultimate Ship The Second",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Undesirable Alien*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Unwitting Accomplice*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Well I Was In The Neighbourhood*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "You'll Thank Me Later*",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "You Would If You Really Loved Me*",
+      "class": "",
+      "note": ""
+    }
+  ],
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Congenital Optimist",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Size Isn't Everything",
+      "class": "",
+      "note":
+        "Length of over 80 kilometers. Parent ship of the Sweet and Full of Grace."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "What Are The Civilian Applications?",
+      "class": "Continent",
+      "note": "Limited edition Prompt subclass. Can outrun a Very Fast Picket."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Just Testing",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Sweet and Full of Grace",
+      "class": "",
+      "note":
+        "Child ship of the Size Isn't Everything. Unusual insofar as being the only Culture ship mentioned in the series to not have its name in start case."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Very Little Gravitas Indeed",
+      "class": "",
+      "note": "Part of the \"... Gravitas ...\" running gag.[6]"
+    },
+    {
+      "civ": "Culture",
+      "type": "VFP/(D)ROU",
+      "name": "Xenophobe",
+      "class": "Torturer",
+      "note": ""
+    }
+  ],
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Anticipation Of A New Lover's Arrival, The",
+      "class": "Plate",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Death And Gravity",
+      "class": "",
+      "note":
+        "Its name is a play on the adage that only death and taxes are inevitable; \"taxes\" are replaced with gravity, since the Culture doesn't have taxes (or money)."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Ethics Gradient",
+      "class": "Range",
+      "note": "Parent ship of the Fate Amenable To Change."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Honest Mistake",
+      "class": "",
+      "note": "Parent ship of the Grey Area."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Limivorous",
+      "class": "Ocean",
+      "note":
+        "\"of or relating to animals, usually worms or bivalves, that ingest earth or mud to extract the organic matter from it.\" Unflattering view of non-mind entities if this is how it sees its relationship with the ship's organic complement."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Uninvited Guest",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Use Psychology",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "What Is The Answer And Why?",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Wisdom Like Silence",
+      "class": "Continent",
+      "note": "Controlled by three Minds."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Yawning Angel",
+      "class": "Range",
+      "note": "Top speed 146,000 x light-speed."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Zero Gravitas",
+      "class": "",
+      "note": "Part of the \"... Gravitas ...\" running gag.[6]"
+    },
+    {
+      "civ": "Culture",
+      "type": "MSV",
+      "name": "Not Invented Here",
+      "class": "Desert",
+      "note":
+        "The Desert class was originally a GSV class that was demoted to MSV as Culture ship sizes grew. The Not Invented Here is usually termed an MSV, but is also referred to as an actual GSV twice (Genar-Hofoen is told that the NIH was a GSV by Tishlin, and he subsequently refers to it as a GSV even after knowing that it is now an MSV), while towards the end of the book it is referred to as an LSV by the Sleeper Service and in authorial narration. Accounts of its history are also contradictory: at one point, characters indicate that the NIH is generally believed (even within Special Circumstances) to have been destroyed five centuries earlier; at another, the narration states that it has always remained an apparently normal part of the Culture, with a very well-documented past."
+    },
+    {
+      "civ": "Culture",
+      "type": "LSV",
+      "name": "Misophist",
+      "class": "",
+      "note":
+        "a Sophist is \"a person who reasons with clever but false arguments.\" A Misophist is presumably simple and true."
+    },
+    {
+      "civ": "Culture",
+      "type": "LSV",
+      "name": "Serious Callers Only",
+      "class": "Tundra",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCV",
+      "name": "Steely Glint",
+      "class": "Plains",
+      "note": "Parent ship of the Attitude Adjuster."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Different Tan",
+      "class": "Mountain",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Fate Amenable To Change",
+      "class": "Escarpment",
+      "note": "Child ship of the Ethics Gradient."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Grey Area (aka Meatfucker)",
+      "class": "",
+      "note":
+        "Ostracised for non-consensual mindreading of biological individuals, earning it the condemnation of other ships, who then ignored its chosen name in favor of Meatfucker. Child ship of the Honest Mistake. Also mentioned in Look to Windward."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "It's Character Forming",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Jaundiced Outlook",
+      "class": "Ridge",
+      "note": "Child ship of the Sleeper Service."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Problem Child",
+      "class": "Troubadour",
+      "note":
+        "Early (vs Excession-contemporary) GCU, historical mention. Nominally captained by Zreyn Tramow."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Reasonable Excuse",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Recent Convert",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Tactical Grace",
+      "class": "Escarpment",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Unacceptable Behaviour",
+      "class": "",
+      "note": "Child ship of the Quietly Confident (Sleeper Service)."
+    },
+    {
+      "civ": "Culture",
+      "type": "LOU",
+      "name": "Attitude Adjuster",
+      "class": "Killer",
+      "note":
+        "Nominally demilitarised, but in fact a fully armed warship. Child ship of the Steely Glint. Class possibly downgraded from ROU (designated as such in Consider Phlebas, set five centuries earlier)."
+    },
+    {
+      "civ": "Culture",
+      "type": "ROU",
+      "name": "Heavy Messing",
+      "class": "Gangster",
+      "note":
+        "An allusion to a term from Glaswegian, or from Ned-ese. Generally if one is said to be \"heavy messing\" they are considered by an aggrieved party to be interfering or aggravating a situation in which they have little to no stake in."
+    },
+    {
+      "civ": "Culture",
+      "type": "ROU",
+      "name": "Killing Time",
+      "class": "Torturer",
+      "note":
+        "A pun on a saying that 99% of war is just killing time, while the rest is the killing time."
+    },
+    {
+      "civ": "Culture",
+      "type": "ROU",
+      "name": "Frank Exchange Of Views",
+      "class": "Psychopath",
+      "note": "Nominally demilitarised, but in fact a fully armed warship."
+    },
+    {
+      "civ": "Culture",
+      "type": "OU",
+      "name": "T3OU 4",
+      "class": "Type Three",
+      "note":
+        "Non-standard design, based on Inquisitor-class prototype. Child ships of the Sleeper Service. Controlled by semi-slaved AIs rather than independent Minds."
+    },
+    {
+      "civ": "Culture",
+      "type": "OU",
+      "name": "T3OU 118",
+      "class": "Type Three",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "OU",
+      "name": "T3OU 736",
+      "class": "Type Three",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "Superlifter",
+      "name": "Charitable View",
+      "class": "Cliff",
+      "note":
+        "Top sprint speed 221,000 x light-speed (faster than contemporary ROUs)."
+    },
+    {
+      "civ": "Culture",
+      "type": "Cruise Ship",
+      "name": "Just Passing Through",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "I Blame My Mother",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "I Blame Your Mother",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture Convertcraft",
+      "type": "Main Battle Unit",
+      "name": "Full Refund (formerly MBU 604)",
+      "class": "Empire",
+      "note": "Former Homomdan MBU, now Culture Convertcraft"
+    },
+    {
+      "civ": "Culture Eccentric",
+      "type": "GSV",
+      "name": "Quietly Confident,\nlater Sleeper Service",
+      "class": "Plate",
+      "note":
+        "Acts as a storage ship for biological persons in stasis. The name Sleeper Service is a pun on sleeping car (transport) and sleeper agent (espionage). It also secretly converts itself to be \"mostly engine\" so it can move unexpectedly quickly - a parallel to sleeper cars (racing). Standard Plate class top cruising speed is 104,000 x light-speed, increased by these modifications to 233,500. Originally controlled by three Minds, two of which were removed when the other became Eccentric. Parent ship of the Unacceptable Behaviour, Jaundiced Outlook, T3OU 4, T3OU 118 and T3OU 736."
+    },
+    {
+      "civ": "Culture Sabbaticaler",
+      "type": "GSV",
+      "name": "No Fixed Abode",
+      "class": "Ex-Equator",
+      "note":
+        "No fixed abode is a legal term for someone without a fixed address, such as a homeless person. Its name is an observation on itself as a moving starship inherently has no fixed abode."
+    },
+    {
+      "civ": "Culture Ulterior",
+      "type": "",
+      "name": "Highpoint",
+      "class": "",
+      "note": "Possibly not a ship (described only as an \"Ulterior Entity\")."
+    },
+    {
+      "civ": "Culture Ulterior (AhForgetIt Tendency), Eccentric",
+      "type": "",
+      "name": "Shoot Them Later",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture Ulterior (Zetetic Elench)",
+      "type": "Explorer Ship",
+      "name": "Appeal To Reason",
+      "class": "",
+      "note": "Part of the Stargazer Clan."
+    },
+    {
+      "civ": "Culture Ulterior (Zetetic Elench)",
+      "type": "Explorer Ship",
+      "name": "Break Even",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture Ulterior (Zetetic Elench)",
+      "type": "Explorer Ship",
+      "name": "Long View",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture Ulterior (Zetetic Elench)",
+      "type": "Explorer Ship",
+      "name": "Peace Makes Plenty",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture Ulterior (Zetetic Elench)",
+      "type": "Explorer Ship",
+      "name": "Sober Counsel",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture Ulterior (Zetetic Elench)",
+      "type": "Explorer Ship",
+      "name": "Within Reason",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Affront",
+      "type": "",
+      "name": "Frightspear",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Affront",
+      "type": "Light Cruiser",
+      "name": "Furious Purpose",
+      "class": "Meteorite",
+      "note": ""
+    },
+    {
+      "civ": "Affront",
+      "type": "",
+      "name": "Kiss The Blade",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Affront",
+      "type": "",
+      "name": "Riptalon",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Affront",
+      "type": "",
+      "name": "SacSlicer II",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Affront",
+      "type": "",
+      "name": "Wingclipper",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Affront",
+      "type": "Battleship",
+      "name": "Xenoclast",
+      "class": "",
+      "note": ""
+    }
+  ],
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Experiencing A Significant Gravitas Shortfall",
+      "class": "Equator",
+      "note":
+        "Part of the \"... Gravitas ...\" running gag.[6] A GCU of the same name is mentioned in Matter. SpaceX's third drone ship is named A Shortfall of Gravitas, in reference to this ship."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Lasting Damage",
+      "class": "",
+      "note":
+        "A GSV built for combat on the eve of the Idiran-Culture War. After it was destroyed in battle, a recorded copy of its mind-state was embodied in a new Mind and incorporated into another GSV of the same class. Its original Mind was later found to have survived the ship's destruction, and was also incorporated into a new combat GSV."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Lasting Damage I",
+      "class": "",
+      "note":
+        "The second ship incorporating the original Lasting Damage Mind, which had been assumed destroyed but eventually returned. This second ship was later itself destroyed, but its Mind again survived, and merged with the recorded mind-state of the Lasting Damage II, which was also destroyed, including its Mind, in the same battle. It became the Hub Mind of Masaq' Orbital."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Lasting Damage II",
+      "class": "",
+      "note":
+        "The ship incorporating the backup copy Mind of the Lasting Damage."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Sanctioned Parts List",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Grey Area (aka Meatfucker)",
+      "class": "",
+      "note":
+        "Featured in Excession; mentioned here only as an illustration of the Culture's disapproval of machines reading the minds of biological individuals, an activity which led other Minds to disregard its chosen name in favour of the name Meatfucker."
+    },
+    {
+      "civ": "Culture",
+      "type": "ROU",
+      "name": "Nuisance Value",
+      "class": "Torturer",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "VFP/(D)ROU",
+      "name": "Resistance Is Character-Forming",
+      "class": "Gangster",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "Superlifter",
+      "name": "Vulgarian",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Someone Else's Problem†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Lacking That Small Match Temperament†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Poke It With A Stick†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "OU",
+      "name": "I Said, I've Got A Big Stick†",
+      "class": "",
+      "note":
+        "The small print (spoken softly) is an allusion to the saying \"Speak softly and carry a big stick.\""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Hand Me The Gun And Ask Me Again†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "But Who's Counting?†",
+      "class": "",
+      "note": "LOU Me, I'm Counting provides the answer."
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Germane Riposte†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "We Haven't Met But You're A Great Fan Of Mine†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "All The Same, I Saw It First†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Ravished By The Sheer Implausibility Of That Last Statement†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Zero Credibility†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Charming But Irrational†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Demented But Determined†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "You May Not Be The Coolest Person Here†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Lucid Nonsense†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Awkward Customer†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Thorough But... Unreliable†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Advanced Case Of Chronic Patheticism†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Another Fine Product From The Nonsense Factory†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Conventional Wisdom†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "In One Ear†",
+      "class": "",
+      "note": "Part of the expression \"in one ear and out the other\"."
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Fine Till You Came Along†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "I Blame The Parents†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Inappropriate Response†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "A Momentary Lapse Of Sanity†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Lapsed Pacifist†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Reformed Nice Guy†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Pride Comes Before A Fall†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Injury Time†",
+      "class": "",
+      "note":
+        "A play on the sporting term \"injury time\" (i.e. time added on at the end of a match to make up for stoppages required to deal with injuries to players) and a notional appropriate time to inflict an injury (see also Killing Time)."
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Now Look What You've Made Me Do†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Kiss This Then†",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Chelgrian",
+      "type": "Privateer",
+      "name": "Winter Storm",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Chelgrian",
+      "type": "Temple ship",
+      "name": "Piety",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Chelgrian",
+      "type": "Temple ship",
+      "name": "Soulhaven",
+      "class": "",
+      "note": ""
+    }
+  ],
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Seed Drill",
+      "class": "Ocean",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "MSV",
+      "name": "Don't Try This At Home",
+      "class": "Steppe",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "LSV",
+      "name": "Xenoglossicist",
+      "class": "Air",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCV",
+      "name": "Subtle Shift In Emphasis",
+      "class": "Plains",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Experiencing A Significant Gravitas Shortfall",
+      "class": "",
+      "note":
+        "Part of the \"... Gravitas ...\" running gag.[6] A GSV of the same name is mentioned in Look to Windward. SpaceX's third drone ship is named A Shortfall of Gravitas, in reference to this ship."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "It's My Party And I'll Sing If I Want To",
+      "class": "Escarpment",
+      "note": "Allusion to the song It's my party, and I'll cry if I want to."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Lightly Seared On The Reality Grill",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Pure Big Mad Boat Man",
+      "class": "",
+      "note":
+        "An inside joke based upon the language of Ned (Scottish) culture. It would be read/heard as \"a pure big, mad boat, man\" roughly meaning \"a very large and deadly serious boat my good man\"."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Qualifier",
+      "class": "Trench",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Transient Atmospheric Phenomenon",
+      "class": "",
+      "note":
+        "Transient Atmospheric Phenomenon has been suggested as an alternative name for a UFO"
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "You Naughty Monsters",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "FP/(D)GOU",
+      "name": "Eight Rounds Rapid",
+      "class": "Delinquent",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "VFP/(D)ROU",
+      "name": "You'll Clean That Up Before You Leave",
+      "class": "Gangster",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Now We Try It My Way",
+      "class": "Erratic",
+      "note":
+        "An ancient ship, originally an Interstellar-class ship of the now-obsolete General Transport Craft type."
+    },
+    {
+      "civ": "Culture Ulterior",
+      "type": "Superlifter (ex-GCU), militarised",
+      "name": "Liveware Problem",
+      "class": "Stream (modified Delta-class GCU)",
+      "note":
+        "Militarised during the Idiran War and nominally absconded after the conflict, probably for the purpose of acting as a deniable Special Circumstances operative. The phrase is a joke among computer engineers, suggesting that the problem lies with the user.[8]"
+    },
+    {
+      "civ": "Morthanveld",
+      "type": "Cat.3 SlimHull",
+      "name": "“Now, Turning to Reason, & its Just Sweetness”",
+      "class": "",
+      "note":
+        "The book's appendix capitalises the first letter of 'its', contrary to the two times the ship is named in the text."
+    },
+    {
+      "civ": "Morthanveld",
+      "type": "Cat.4 CleaveHull",
+      "name": "“On First Seeing Jhiriit”",
+      "class": "",
+      "note":
+        "This ship is not mentioned in the story itself, only in the book's appendix."
+    },
+    {
+      "civ": "Morthanveld",
+      "type": "Cat.5 SwellHull",
+      "name": "“Fasilyce, Upon Waking”",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Morthanveld",
+      "type": "Great Ship",
+      "name": "Inspiral, Coalescence, Ringdown",
+      "class": "",
+      "note":
+        "Comparable to a GSV; the name refers to stages in the merger of two black holes."
+    },
+    {
+      "civ": "Nariscene",
+      "type": "Star Cruiser",
+      "name": "Hence the Fortress",
+      "class": "Comet",
+      "note": ""
+    },
+    {
+      "civ": "Nariscene",
+      "type": "",
+      "name": "Hundredth Idiot, The",
+      "class": "White Dwarf",
+      "note": "Name derived from a Nariscene proverb."
+    }
+  ],
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Dressed Up To Party",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Pelagian",
+      "class": "Equator",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Sense Amid Madness, Wit Amidst Folly",
+      "class": "Plate",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Total Internal Reflection",
+      "class": "",
+      "note":
+        "One of the \"Forgotten\"/\"Oubliettionaries\": Systems Vehicles remaining indefinitely in secretive isolation, tasked with recreating the Culture in the event of its destruction."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Armchair Traveller",
+      "class": "Mountain",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Bodhisattva, OAQS",
+      "class": "Escarpment",
+      "note":
+        "Part of Contact's Quietudinal Service (Quietus). Quietus ships added letters OAQS - On Active Quietudinal Service - to their names while they were so employed."
+    },
+    {
+      "civ": "Culture",
+      "type": "GOU/PS",
+      "name": "Falling Outside The Normal Moral Constraints",
+      "class": "Abominator",
+      "note":
+        "Class publicly categorised as Picket Ship, to give the impression that they are equivalent in function to FPs and VFPs; in fact these are state-of-the-art warships, the most powerful to appear in the series."
+    },
+    {
+      "civ": "Culture",
+      "type": "FP/(D)GOU",
+      "name": "No One Knows What The Dead Think",
+      "class": "",
+      "note": "Formerly known as the GOU Obliterating Angel."
+    },
+    {
+      "civ": "Culture",
+      "type": "FP/(D)LOU",
+      "name": "Hylozoist",
+      "class": "Killer",
+      "note":
+        "Class possibly downgraded from ROU (designated as such in Consider Phlebas, set fifteen centuries earlier). Name alludes to Hylozoism."
+    },
+    {
+      "civ": "Culture",
+      "type": "FP/(D)ROU",
+      "name": "The Usual But Etymologically Unsatisfactory",
+      "class": "Psychopath",
+      "note":
+        "Class possibly downgraded from VFP (designated as such in Excession, set ten centuries earlier, and in The Hydrogen Sonata, set five centuries earlier)."
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Beastly To The Animals",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Fixed Grin",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Hidden Income",
+      "class": "",
+      "note":
+        "Type not mentioned in novel, but possibly General Transport Craft (see Matter).[why?]"
+    },
+    {
+      "civ": "Culture",
+      "type": "",
+      "name": "Scar Glamour",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture Eccentric",
+      "type": "",
+      "name": "Labtebricolephile",
+      "class": "",
+      "note":
+        "This name appears to be derived from a misspelling of 'latebricole' (the misspelling in question likely originating from Stephen Chrisomalis's website \"The Phrontistery\"), which is an adjective meaning \"living concealed in a hole\"."
+    },
+    {
+      "civ": "Culture Ulterior, Eccentric",
+      "type": "FP/(D)LOU",
+      "name": "Me, I'm Counting",
+      "class": "Hooligan",
+      "note": "Another ship in the Culture is called But Who's Counting?."
+    },
+    {
+      "civ": "GFCF",
+      "type": "Contact Craft",
+      "name": "Messenger Of Truth",
+      "class": "Succour",
+      "note": ""
+    },
+    {
+      "civ": "GFCF",
+      "type": "Minor Destructor Vessel",
+      "name": "Fractious Person",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "GFCF",
+      "type": "Minor Destructor Vessel",
+      "name": "Rubric Of Ruin",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "GFCF",
+      "type": "",
+      "name": "Abundance Of Onslaught",
+      "class": "Deepest Regrets",
+      "note":
+        "Deepest Regrets-class ships are capital ships and the pride of the GFCF fleet."
+    },
+    {
+      "civ": "GFCF",
+      "type": "",
+      "name": "Vision Of Hope Surpassed",
+      "class": "Deepest Regrets",
+      "note": ""
+    },
+    {
+      "civ": "GFCF",
+      "type": "GOU",
+      "name": "Joiler Veppers (provisional name)",
+      "class": "Murderer (modified)",
+      "note":
+        "Based on the Culture's obsolete Murderer-class GOU, with upgraded speed and modified weaponry, built by the GFCF as a bribe for the Sichultian plutocrat Joiler Veppers."
+    },
+    {
+      "civ": "Jhlupian",
+      "type": "Heavy Cruiser",
+      "name": "Ucalegon",
+      "class": "",
+      "note":
+        "Ucalegon means \"a neighbor whose house is on fire\". Ucalegon is also the name of a non-sentient Culture barge on Masaq' Orbital in Look to Windward."
+    },
+    {
+      "civ": "Nauptre Reliquaria",
+      "type": "Bismuth Category",
+      "name": "8401.00 Partial Photic Boundary",
+      "class": "",
+      "note": ""
+    }
+  ],
+  [
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "A Fine Disregard For Awkward Facts",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Contents May Differ",
+      "class": "Atmosphere",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Empiricist",
+      "class": "System",
+      "note":
+        "A big ship, even by the standards of System-class vessels, which are the largest built by the Culture (being composed of multiple separate hulls, ships of this class are easily expanded, leading to great variations in size). Controlled by seven Minds. Population over 13 billion."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Just The Washing Instruction Chip In Life's Rich Tapestry",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Kakistocrat",
+      "class": "",
+      "note":
+        "Home GSV of Mistake Not… \"Kakistocrat\" is Ancient Greek, meaning \"worst ruler\", a humorous inversion of \"aristocrat\"."
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Teething Problems",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GSV",
+      "name": "Unreliable Witness",
+      "class": "",
+      "note": "Parent ship of the Smile Tolerantly."
+    },
+    {
+      "civ": "Culture",
+      "type": "MSV",
+      "name": "Passing By And Thought I'd Drop In",
+      "class": "Desert",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "MSV",
+      "name": "Pressure Drop",
+      "class": "Shelf",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "LSV",
+      "name": "You Call This Clean?",
+      "class": "Blue",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Displacement Activity",
+      "class": "River",
+      "note":
+        "Class name previously used for a Superlifter class in The Player of Games."
+    },
+    {
+      "civ": "Culture",
+      "type": "GCU",
+      "name": "Warm, Considering",
+      "class": "Delta",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "LCU",
+      "name": "Anything Legal Considered",
+      "class": "Ridge",
+      "note":
+        "Class possibly downgraded from GCU (designated as such in Excession, set five centuries earlier)."
+    },
+    {
+      "civ": "Culture",
+      "type": "LCU",
+      "name": "Beats Working",
+      "class": "Scree",
+      "note":
+        "The smallest class of Contact Unit: 80m long, with a human crew of five."
+    },
+    {
+      "civ": "Culture",
+      "type": "GOU",
+      "name": "Headcrash",
+      "class": "Delinquent",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GOU",
+      "name": "Questionable Ethics",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "GOU",
+      "name": "Xenocrat",
+      "class": "Delinquent",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "LOU",
+      "name": "Caconym",
+      "class": "Troublemaker",
+      "note":
+        "Although categorised as LOUs, the Troublemaker class are referred to as \"nominatively camouflaged\", outclassing earlier GOUs. \"Caconym\" is Ancient Greek, meaning \"bad name\", probably in reference to the English idiom meaning \"bad reputation\"."
+    },
+    {
+      "civ": "Culture",
+      "type": "LOU",
+      "name": "New Toy",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "VFP/(D)LOU",
+      "name": "Rapid Random Response Unit",
+      "class": "Troublemaker",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "ROU",
+      "name": "Learned Response",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "VFP/(D)ROU",
+      "name": "Outstanding Contribution To The Historical Process",
+      "class": "Psychopath",
+      "note": ""
+    },
+    {
+      "civ": "Culture",
+      "type": "FP/(D)ROU",
+      "name": "Refreshingly Unconcerned With The Vulgar Exigencies Of Veracity",
+      "class": "Thug",
+      "note":
+        "Some confusion as to type: described as a demilitarised ROU, but also as an FP, a designation otherwise applied to demilitarised GOUs and LOUs, whereas demilitarised ROUs are VFPs. Also referred to as an ROU class in Excession, but in that book the Thug-class-based Type Five OUs are lower in the fleet hierarchy than the Type Four, based on the Killer class, which is described in the same book as an LOU, implying that the Thug class should also be LOUs."
+    },
+    {
+      "civ": "Culture",
+      "type": "FP/(D)ROU",
+      "name": "Value Judgement",
+      "class": "Thug",
+      "note": "See above."
+    },
+    {
+      "civ": "Culture",
+      "type": "Superlifter",
+      "name": "Zoologist",
+      "class": "Boulder",
+      "note": ""
+    },
+    {
+      "civ": "Culture Eccentric",
+      "type": "OU/e",
+      "name": "Mistake Not…",
+      "class": "",
+      "note":
+        "A one-off design of indeterminate classification, whose capabilities remain secret but which is a highly capable warship. It identifies itself as Ue, for Unit (eccentric/erratic); less coyly designated in the book's appendix as OU/e. Its full name, which is a private joke amongst other Culture Minds and almost never used, is the Mistake Not My Current State Of Joshing Gentle Peevishness For The Awesome And Terrible Majesty Of The Towering Seas Of Ire That Are Themselves The Mere Milquetoast Shallows Fringing My Vast Oceans Of Wrath."
+    },
+    {
+      "civ": "Culture-Zihdren-Remnanter hybrid",
+      "type": "(ex-)GCU",
+      "name": "Smile Tolerantly",
+      "class": "",
+      "note":
+        "Formerly an ancient GCU, has hybridised its Mind with the technology of another civilisation, the Zihdren-Remnanter, and describes itself as having \"enhanced loyalties\" (i.e. divided loyalties). Child ship of the Unreliable Witness."
+    },
+    {
+      "civ": "Gzilt",
+      "type": "IR-HAS cruiser",
+      "name": "5*Gelish-Oplule",
+      "class": "",
+      "note": "Indefinite Range, High Acceleration/Speed"
+    },
+    {
+      "civ": "Gzilt",
+      "type": "IR-HVW battlecruiser",
+      "name": "7*Uagren",
+      "class": "",
+      "note": "Indefinite Range, High Velocity/Weapon-load"
+    },
+    {
+      "civ": "Gzilt",
+      "type": "IR-FWS battleship",
+      "name": "8*Churkun",
+      "class": "",
+      "note": "Indefinite Range, Full Weapon Spectrum"
+    },
+    {
+      "civ": "Iwenick",
+      "type": "Space-Capable Inter-Element Transportation Component",
+      "name": "Iberre",
+      "class": "",
+      "note": "Private yacht, named after the owner's father-mother."
+    },
+    {
+      "civ": "Iwenick",
+      "type": "Strategic Outreach Element",
+      "name": "CH2OH.(CHOH)4.CHO",
+      "class": "",
+      "note":
+        "The chemical whose formulation is given in this name is galactose (here used as a pun on galaxy/galactic)."
+    },
+    {
+      "civ": "Liseiden",
+      "type": "Collective Purposes Vessel",
+      "name": "Abalule-Sheliz",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Liseiden",
+      "type": "Collective Purposes Vessel",
+      "name": "Gellemtyan-Asool-Anafawaya",
+      "class": "(First Class)",
+      "note": "Flagship"
+    },
+    {
+      "civ": "Liseiden",
+      "type": "Collective Purposes Vessel",
+      "name": "Laskuil-Hliz",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Liseiden",
+      "type": "Collective Purposes Vessel",
+      "name": "Quiatrea-Anang",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Liseiden",
+      "type": "",
+      "name": "Fulanya-Guang",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Ronte",
+      "type": "",
+      "name": "Melancholia Enshrines All Triumph",
+      "class": "Interstitial/Exploratory",
+      "note": ""
+    },
+    {
+      "civ": "Zihdren-Remnanter",
+      "type": "Adjunct Entity",
+      "name": "Oceanic Dissonance",
+      "class": "",
+      "note": ""
+    },
+    {
+      "civ": "Zihdren-Remnanter",
+      "type": "Ceremonial Representative Carrying Ship",
+      "name": "Exaltation-Parsimony III",
+      "class": "",
+      "note": ""
+    }
+  ]
+]

@@ -1,14 +1,10 @@
 // TODO: Remove thead
+const fetch = require('./fetch');
 const cheerio = require('cheerio');
-const axios = require('axios');
+const fs = require('fs');
 
 const url =
   'https://en.wikipedia.org/w/api.php?action=parse&page=List_of_spacecraft_in_the_Culture_series&prop=text&format=json&formatversion=2';
-
-const fetch = url =>
-  new Promise((resolve, reject) => {
-    return axios.get(url).then(response => resolve(response.data));
-  });
 
 function getShips(url) {
   return new Promise((resolve, reject) => {
@@ -38,7 +34,10 @@ function getShips(url) {
 }
 
 Promise.resolve(getShips(url)).then(ships => {
-  console.log(ships);
+  fs.writeFile('src/ships.json', JSON.stringify(ships), err => {
+    if (err) throw err;
+    console.log('Ships written to file.');
+  });
 });
 
-// module.exports = getShips;
+module.exports = getShips;
